@@ -1,0 +1,188 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* header er kaj kam */
+
+header {
+    background: rgba(229, 84, 115, 0.10);
+    padding: 0 240px;
+}
+
+nav {
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+
+}
+
+.lets {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-top: 197px;
+    margin-right: 97px;
+
+}
+
+.header-description {
+    color: rgba(39, 39, 39, 0.60);
+    margin-top: 32px;
+    margin-bottom: 32px;
+    margin-right: 170px;
+
+    font-size: 18px;
+}
+
+.button {
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFFFFF;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border: 0;
+}
+
+.title-flower {
+    margin-top: 50px;
+}
+
+/* main er kaj kam */
+main {
+    margin: 128px 0;
+}
+
+.sale {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 300px;
+}
+
+.section-title {
+    color: #272727;
+
+    font-size: 40px;
+
+}
+
+.off {
+    color: #E55473;
+}
+
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+
+    font-size: 18px;
+    margin-right: 180px;
+    margin-left: 200px;
+
+}
+
+.section1 {
+    text-align: center;
+    gap 30px;
+    margin-top: 140px;
+
+}
+
+.section2 {
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.images {
+    display: flex;
+    margin: 50px 240px 0 240px;
+    gap: 24px;
+    justify-content: space-around;
+}
+
+.Deals {
+    margin-left: 240px;
+    margin-right: 240px;
+    text-align: center;
+    display: block;
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+
+    margin-top: 100px;
+    padding-right: 240px;
+
+
+}
+
+#get {
+    padding-top: 120px;
+}
+
+.email {
+    border: 0;
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 60px;
+    flex-shrink: 0;
+    margin-right: 30px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: left;
+    padding-left: 30px;
+
+
+    font-size: 16px;
+
+
+
+
+
+}
+
+.subscribe {
+    padding: 50px 20px 120px 280px;
+}
+
+.footer {
+    background: #111010;
+    text-align: center;
+}
+
+.footer-title {
+    color: #E55473;
+    padding-top: 130px;
+    padding-bottom: 25px;
+
+    font-size: 48px;
+
+    font-weight: 800;
+
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    padding: 0 650px 30px 650px;
+
+
+    font-size: 18px;
+
+    font-weight: 400;
+
+}
+
+.small {
+    color: rgba(255, 255, 255, 0.40);
+
+    font-size: 16px;
+    padding-bottom: 130px;
+    
+
+
+}
+#shop{
+    color: #FFF;
+}
